@@ -1989,7 +1989,7 @@ print(sf.pymApio13(UTC1, UTC2, DUT1, ELONG, PHI, HM, XP, YP, PHPA, TC, RH, WL, A
      0)								#The last value is the check value, where 0 is OK.
 ```
 
-#### 5.2.2 ASTROM parameters application
+##### 5.2.2 ASTROM parameters application
 
 Use of these functions are appropriate when efficiency is important and where many star positions are to be transformed for one date.  The star-independent parameters can be obtained by calling one of the functions iauApci[13], iauApcg[13], iauApco[13] or iauApcs[13].
 
